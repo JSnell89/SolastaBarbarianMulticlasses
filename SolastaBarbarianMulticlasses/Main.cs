@@ -6,8 +6,6 @@ using UnityModManagerNet;
 using HarmonyLib;
 using I2.Loc;
 using SolastaModApi;
-using SolastaModApi.Extensions;
-using SolastaAHBarbarianClass;
 using SolastaMulticlassClassBuilder;
 using System.Linq;
 using System.Collections.Generic;
