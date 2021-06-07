@@ -1,6 +1,6 @@
 using HarmonyLib;
 
-namespace SolastaIdentifyAllItems.Patches
+namespace SolastaBarbarianMulticlasses.Patches
 {
     class GameManagerPatcher
     {

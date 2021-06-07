@@ -1,4 +1,4 @@
-# SolastaIdentifyAllItems
+# SolastaBarbarianMulticlasses
 
 My Mod Description
 

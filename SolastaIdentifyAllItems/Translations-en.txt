@@ -1,2 +1,0 @@
-SolastaIdentifyAllItems/&FancySkeletonTitle	Fancy Skeleton
-SolastaIdentifyAllItems/&FancySkeletonDescription	I'm a fancy skeleton

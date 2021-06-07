@@ -1,0 +1,2 @@
+SolastaBarbarianMulticlasses/&FancySkeletonTitle	Fancy Skeleton
+SolastaBarbarianMulticlasses/&FancySkeletonDescription	I'm a fancy skeleton
